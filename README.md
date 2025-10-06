@@ -1,7 +1,6 @@
 # 🍎 Fruit AI
 
 A small Python project that finds similar fruit names using the **Levenshtein distance** algorithm — detects typos, spelling mistakes, and close matches.
-[Live demo]()
 
 ## 🚀 Live Demo
 You can try the Fruit AI project online here:  
