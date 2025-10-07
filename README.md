@@ -27,13 +27,6 @@ fruit-ai/
 
 ---
 
-## ⚙️ Requirements
-
-- Python 3.9+
-- No third-party packages needed
-
----
-
 ## 📥 Clone the Project
 
 ```bash
